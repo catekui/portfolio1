@@ -1,26 +1,24 @@
 # New-Portfolio
-<!-- 
+
 ## Author
 
-[Owiti-Charles](https://github.com/Owiti-Charles)
+[Catherine Wangui](https://github.com/catekui)
 
 ### Version
-08.2019/001
+01.08.2022
 
 ## Description
+This is my portfolio
 
-
-## Screenshot
-<img src="https://raw.githubusercontent.com/Owiti-Charles/New-Portfolio/master/img/portfolio.png" width="900px" height="440px">
 
 ## Live Page 
-https://Owiti-charles.github.io/New-Portfolio 
+
 
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Owiti-Charles/New-Portfolio.git```
+* git clone ```https://github.com/catekui/portfolio1.git```
 
 * cd New-Portfolio
 
@@ -40,8 +38,8 @@ https://Owiti-charles.github.io/New-Portfolio
 
 ## Contact Information 
 
-If you have any question or contributions that would better this app, please email me at [mikeycharlesm7@gmail.com]
+If you have any question or contributions that would better this app, please email me at [kuicatherine7@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Owiti Charles** -->
+* Copyright (c) 2022 **Catherine Wangui**
